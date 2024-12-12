@@ -1,4 +1,4 @@
-# Scripts wonaruto pour Google Colab
+# Scripts pour télécharger des fanarts postés sur wonaruto (pour Google Colab)
 Des scripts pour télécharger des fanarts selon vos envies (voir les possibilités ci-dessous). 
 
 Prérequis : avoir un compte Google, avoir Google Drive.
